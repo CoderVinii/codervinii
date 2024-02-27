@@ -46,7 +46,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I'm looking for help getting a job
 - 📫 How to reach me: My email [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox) and my contact +5511963045215 
-- 😄 Pronouns: him his
 - ⚡ Fun fact: junior developer
 -->
 <!--título-->
@@ -72,16 +71,14 @@
 
   - 💬 I am currently 18 years old and live in Brazil. I understand a little English and I am a junior in Python, Java, and Javascript, I have studied programming for a year and I intend to continue in this career
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ I enjoy reading, a good book, or goods hiistorys, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
 
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/](https://www.instagram.com/odionisiorico/))<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-
 
 [![LinkedIn](www.linkedin.com/in/vinicius-fernandes-62258017)
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""  />
 
 
 
