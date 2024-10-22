@@ -14,4 +14,4 @@ I'm a Junior Developer from Brazil, currently focusing on web development. My pa
 
 ## Contact Me
 
-Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/vinicius-fernandes-62258017) or email me at [viniciusdmfernandes@gmail.com](mailto:viniciusdmfernandes@gmail.com).
+Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/vinicius-dionisio-62258017) or email me at [viniciusdmfernandes@gmail.com](mailto:viniciusdmfernandes@gmail.com).
