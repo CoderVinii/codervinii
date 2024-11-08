@@ -1,23 +1,35 @@
-👋 Olá, sou o Vinicius Dionisio!
+# 👋 Hello, I'm Vinicius Dionisio!
 
-🌍 Desenvolvedor em início de carreira, com grande interesse em Inteligência Artificial e Ciência de Dados. 
-Atualmente, estou focado no desenvolvimento web e ampliando minha experiência com projetos práticos.
+🌍 A Junior Developer from Brazil, passionate about **Artificial Intelligence** and **Data Science**. Currently focusing on web development while gaining practical experience through various projects.
 
-Sobre Mim
+## About Me
 
-🔍 Buscando uma oportunidade de trabalho para começar minha jornada na área de tecnologia e me desenvolver como profissional.
-🌱 Atualmente aprendendo JavaScript e expandindo minhas habilidades para me tornar um desenvolvedor full-stack.
-🤝 Interessado em colaborar em projetos de desenvolvimento web, ciência de dados ou qualquer outra área desafiadora e interessante.
-💡 Sonho grande: trabalhar com Inteligência Artificial e ajudar a criar soluções inovadoras que impactem positivamente a sociedade.
+- 🔍 **Actively seeking** my first job opportunity in tech to start my career and grow as a professional.
+- 🌱 **Currently learning** JavaScript and working towards becoming a full-stack developer.
+- 🤝 **Open to collaboration** on projects involving web development, data science, or any exciting challenge.
+- 💡 **Big Dream:** To work with Artificial Intelligence and contribute to creating innovative solutions that positively impact society.
 
-Habilidades
-Linguagens: JavaScript, C, C++
-Ferramentas: Git, Node.js, React, HTML, CSS
-Interesse Futuro: Machine Learning, IA, Ciência de Dados
+---
 
-Vamos nos conectar!
-Estou aberto a oportunidades de colaboração e conversas sobre tecnologia. Sinta-se à vontade para me contatar!
+## Skills
+- **Languages:** JavaScript, C, C++
+- **Tools:** Git, Node.js, React, HTML, CSS
+- **Future Interests:** Machine Learning, AI, Data Science
 
-📧 Email: viniciusdmfernandes@gmail.com
-💼 LinkedIn: linkedin.com/in/vinicius-dionisio-62258017
+---
+
+## Projects
+- [**Alura Midi**](#) 🎵 - A digital musical instrument where each button plays the sound of an instrument.
+- [**Alura Fokus**](#) ⏳ - A productivity tool inspired by the Pomodoro technique to help users stay focused.
+- [**Mario Game**](#) 🎮 - A game inspired by the classic Mario and the Google dinosaur game.
+
+---
+
+## Let's Connect!
+
+I’m open to collaboration and discussions about technology. Feel free to reach out!
+
+📧 Email: viniciusdmfernandes@gmail.com  
+💼 LinkedIn: [linkedin.com/in/vinicius-dionisio-62258017](https://www.linkedin.com/in/vinicius-dionisio-62258017/)
+
 
